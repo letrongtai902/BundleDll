@@ -1,0 +1,35 @@
+{
+  "General": {
+    "OutputFile": "C:\\Users\\ACER\\OneDrive - VNU-HCMUS\\Documents\\GitHub\\TestDllHoa\\ProjectC\\bin\\Debug\\ILMerge\\BundleDll.dll",
+    "TargetPlatform": null,
+    "KeyFile": null,
+    "AlternativeILMergePath": null,
+    "InputAssemblies": [
+      "C:\\Users\\ACER\\OneDrive - VNU-HCMUS\\Documents\\GitHub\\TestDllHoa\\ProjectC\\bin\\Debug\\ProjectA.dll",
+      "ProjectD.dll"
+    ]
+  },
+  "Advanced": {
+    "AllowDuplicateType": null,
+    "AllowMultipleAssemblyLevelAttributes": false,
+    "AllowWildCards": false,
+    "AllowZeroPeKind": false,
+    "AttributeFile": null,
+    "Closed": false,
+    "CopyAttributes": false,
+    "DebugInfo": true,
+    "DelaySign": false,
+    "DeleteCopiesOverwriteTarget": false,
+    "ExcludeFile": "",
+    "FileAlignment": 512,
+    "Internalize": false,
+    "Log": false,
+    "LogFile": null,
+    "PublicKeyTokens": true,
+    "SearchDirectories": [],
+    "TargetKind": null,
+    "UnionMerge": false,
+    "Version": null,
+    "XmlDocumentation": false
+  }
+}
