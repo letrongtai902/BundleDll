@@ -3,7 +3,7 @@
 ## 1. ILMerge:
      Là một package có sẵn mục đích đóng gói các file .dll thành một file .dll hoặc đóng gói tất cả các file trong ứng dụng thành một file .exe
 ## 2 Cách sử dụng:
-    - Tạo một Class Library Add references các Project cần đóng gói vào.
+    - Tạo một Class Library và Add references các Project cần đóng gói vào.
     - Cài đặt pakage ILMerge.MSBuild.Task và ilmerge bằng cách sử dụng câu các lệnh tại PM Console::
         -> Install-Package ILMerge.MSBuild.Task
         -> Install-Package ilmerge
