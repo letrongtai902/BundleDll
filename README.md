@@ -55,3 +55,4 @@
 ## 4 Giải thích project:
      - Class library ProjectC là Class Library đóng gói tất các các Class Library A,B,D.
      - File ILMergeConfig.json và các Package cũng được add vào projectC
+     - Link tham khảo https://github.com/emerbrito/ILMerge-MSBuild-Task/wiki
