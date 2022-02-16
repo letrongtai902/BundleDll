@@ -50,7 +50,7 @@
         - InputAssemblies: là đường dẫn đến các dll cần được đóng gói.
         - Các phần còn lại là cấu hình default của ILMerge vd như trong quá trình bundle file dll cần ghi lại error log thì sang phần advance config Log và LogFile.
     - Sau khi config và cài đặt các Package trên thì buld project, ILMerge sẽ tạo ta file .dll bundle các file đã add trong config. Thường là sẽ tạo ở file bin/debug/ILMerge
-## 3 Ảnh thư mục chứ file bundle
+## 3 Ảnh thư mục chứa file bundle
 ![Project To Merge Output](https://firebasestorage.googleapis.com/v0/b/practical-robot-295006.appspot.com/o/Backgroup%2FILMerge.PNG?alt=media&token=c6d3198b-e266-45d4-8a09-58be4360461d)
 ## 4 Giải thích project:
      - Class library ProjectC là Class Library đóng gói tất các các Class Library A,B,D.
